@@ -53,9 +53,9 @@ though. See the [contributors page](../../graphs/contributors) for all contribut
 [ico-license]: https://img.shields.io/badge/license-MIT-green.svg?style=flat-square
 [ico-downloads]: https://img.shields.io/packagist/dt/sven/emote-cli.svg?style=flat-square
 [ico-codeclimate]: https://img.shields.io/codeclimate/github/svenluijten/emote-cli.svg?style=flat-square
-[ico-styleci]: https://styleci.io/repos/:styleci/shield
+[ico-styleci]: https://styleci.io/repos/92437052/shield
 
 [link-packagist]: https://packagist.org/packages/sven/emote-cli
 [link-downloads]: https://packagist.org/packages/sven/emote-cli
 [link-codeclimate]: https://codeclimate.com/github/svenluijten/emote-cli
-[link-styleci]: https://styleci.io/repos/:styleci
+[link-styleci]: https://styleci.io/repos/92437052
