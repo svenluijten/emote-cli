@@ -1,0 +1,25 @@
+{
+    "name": "sven/emoji-cli",
+    "description": "Unicode-character based emoji from the command line ⊂(◉‿◉)つ",
+    "keywords": ["emoji", "unicode", "command", "cli"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sven Luijten",
+            "email": "svenluijten1995@gmail.com",
+            "homepage": "https://svenluijten.com"
+        }
+    ],
+    "require": {
+        "php": "^7.0",
+        "symfony/console": "^3.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Sven\\EmojiCli\\": "src/"
+        }
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
