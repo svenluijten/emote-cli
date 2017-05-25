@@ -7,10 +7,10 @@ if (file_exists(__DIR__.'/../../../autoload.php')) {
     require __DIR__.'/../vendor/autoload.php';
 }
 
-$app = new Symfony\Component\Console\Application('Emoji Cli', '1.0.0');
+$app = new Symfony\Component\Console\Application('Emote Cli', '1.0.0');
 
 $app->add(
-    new Sven\EmojiCli\Commands\GetEmoji()
+    new Sven\EmoteCli\Commands\GetEmote()
 );
 
 $app->run();

@@ -1,18 +1,18 @@
 <?php
 
-namespace Sven\EmojiCli;
+namespace Sven\EmoteCli;
 
 class RepositoryFactory
 {
     /**
-     * @return \Sven\EmojiCli\EmojiRepository
+     * @return \Sven\EmoteCli\EmoteRepository
      */
     public static function make()
     {
-        $emoji = json_decode(
-            file_get_contents(__DIR__.'/../data/emoji.json')
+        $emotes = json_decode(
+            file_get_contents(__DIR__.'/../data/emotes.json')
         );
 
-        return new EmojiRepository((array) $emoji);
+        return new EmoteRepository((array) $emotes);
     }
 }

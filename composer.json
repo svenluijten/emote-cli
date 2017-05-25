@@ -1,7 +1,7 @@
 {
-    "name": "sven/emoji-cli",
-    "description": "Unicode-character based emoji from the command line ⊂(◉‿◉)つ",
-    "keywords": ["emoji", "unicode", "command", "cli"],
+    "name": "sven/emote-cli",
+    "description": "Unicode-character based emotes from the command line ⊂(◉‿◉)つ",
+    "keywords": ["emotes", "unicode", "command", "cli"],
     "license": "MIT",
     "authors": [
         {
@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Sven\\EmojiCli\\": "src/"
+            "Sven\\EmoteCli\\": "src/"
         }
     },
     "config": {
