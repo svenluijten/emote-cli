@@ -11,6 +11,10 @@
 Emotes at your fingertips! ᕕ( ᐛ )ᕗ See all the emotes available in this package
 [here](data/emotes.json).
 
+The emotes were found [here](https://github.com/dysfunc/ascii-emoji). If you want
+to add your favorite emote, just add it to [`emotes.json`](data/emotes.json) and
+send a pull request!
+
 ## Installation
 Via [composer](http://getcomposer.org):
 
