@@ -8,7 +8,7 @@
 [![Code Climate][ico-codeclimate]][link-codeclimate]
 [![StyleCI][ico-styleci]][link-styleci]
 
-Emoji at your fingertips! ☜(⌒▽⌒)☞ See all the emoji available in this package
+Emoji at your fingertips! ᕕ( ᐛ )ᕗ See all the emoji available in this package
 [here](data/emoji.json).
 
 ## Installation
