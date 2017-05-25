@@ -1,4 +1,4 @@
-![emoji-cli](:hero)
+![emoji-cli](https://cloud.githubusercontent.com/assets/11269635/26469134/2da164e0-4199-11e7-907a-cb4460ab9105.jpg)
 
 # Emoji Cli
 
